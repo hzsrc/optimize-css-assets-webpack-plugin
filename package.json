@@ -1,7 +1,7 @@
 {
   "name": "optimize-css-map-webpack-plugin",
-  "version": "5.0.1",
-  "description": "A Webpack plugin to optimize \\ minimize CSS assets with sorce-map filename.",
+  "version": "5.0.2",
+  "description": "A Webpack plugin to optimize \\ minimize CSS assets, with sorce-map filename.",
   "keywords": [
     "CSS",
     "duplicate",
